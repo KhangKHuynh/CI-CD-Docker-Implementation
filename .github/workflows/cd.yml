@@ -21,6 +21,7 @@ jobs:
       - name: Build and push Docker image
         uses: docker/build-push-action@v6
         with:
-          context: .
+          context: ./CICD Demo
+          file: ./CICD Demo/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/cicd-demo:latest
