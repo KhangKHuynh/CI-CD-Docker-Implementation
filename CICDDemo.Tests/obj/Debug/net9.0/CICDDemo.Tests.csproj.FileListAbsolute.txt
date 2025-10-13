@@ -1,3 +1,11 @@
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_CICDDemo.Tests
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_CICDDemo.Tests
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.deps.json
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.runtimeconfig.json
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/appsettings.Development.json
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/appsettings.json
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.staticwebassets.endpoints.json
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.runner.visualstudio.testadapter.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.runner.reporters.netcoreapp10.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.runner.utility.netcoreapp10.dll
@@ -5,7 +13,9 @@
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.Tests.runtimeconfig.json
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.Tests.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.Tests.pdb
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.OpenApi.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -15,6 +25,9 @@
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/testhost.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.abstractions.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.assert.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/xunit.core.dll
@@ -84,6 +97,8 @@
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/bin/Debug/net9.0/CICDDemo.pdb
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/obj/Debug/net9.0/CICDDemo.Tests.csproj.AssemblyReference.cache
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/obj/Debug/net9.0/CICDDemo.Tests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo.Tests/obj/Debug/net9.0/CICDDemo.Tests.AssemblyInfoInputs.cache

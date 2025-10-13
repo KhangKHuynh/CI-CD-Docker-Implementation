@@ -8,6 +8,9 @@
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/CICDDemo.pdb
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/obj/Debug/net9.0/CICDDemo.csproj.AssemblyReference.cache
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/obj/Debug/net9.0/rpswa.dswa.cache.json
 /Users/khanghuynh/Desktop/Personal/CI-CD-Docker-Implementation/CICDDemo/obj/Debug/net9.0/CICDDemo.GeneratedMSBuildEditorConfig.editorconfig
