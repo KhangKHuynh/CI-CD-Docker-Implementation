@@ -25,3 +25,15 @@ jobs:
           file: ./CICDDemo/Dockerfile
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/cicd-demo:latest
+
+      - name: Install Ansible
+        run: |
+          sudo apt update
+          sudo apt install ansible -y
+
+      - name: Install Ansible Docker collection
+        run: ansible-galaxy collection install community.docker
+
+      - name: Run Ansible playbook
+        run: ansible-playbook deploy-local.yml
+
